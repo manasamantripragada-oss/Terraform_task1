@@ -1,0 +1,5 @@
+region1        = "us-east-1"
+region2        = "us-west-2"
+instance_type  = "t3.micro"
+public_key_path = "~/.ssh/id_rsa.pub"
+name_prefix    = "two-region"
